@@ -4,6 +4,7 @@ import jm.task.core.jdbc.service.UserDaoJDBCImpl;
 import org.junit.Assert;
 import org.junit.Test;
 
+
 import java.util.List;
 
 public class UserServiceTest {
